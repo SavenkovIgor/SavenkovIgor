@@ -2,13 +2,13 @@
 
 I'm a c++ software developer
 
-### Skills
+### Core skills
 
 [![C++](https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![QML](https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://doc.qt.io/qt-5/qmlapplications.html)
 
-### Tools and SDKs I'm skilled with
+### Tools and Frameworks
 
 [![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)](https://www.qt.io/)
 [![Chromium](https://img.shields.io/badge/Chromium-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://www.chromium.org/)

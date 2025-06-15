@@ -4,7 +4,7 @@ I'm a senior C++ software developer
 
 ### Core skills
 
-[![C++](https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B23-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![QML](https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://doc.qt.io/qt-5/qmlapplications.html)
 

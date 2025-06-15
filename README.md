@@ -23,3 +23,7 @@
 - [TermGraph](https://termgraph.app) - knowledge mapping and graphs
 - [QmlSandbox](https://marketplace.visualstudio.com/items?itemName=SavenkovIgor.QmlSandboxExtension) live QML viewer extension for Visual Studio Code
 [![Installs](https://vsmarketplacebadges.dev/installs/SavenkovIgor.QmlSandboxExtension.svg)](https://marketplace.visualstudio.com/items?itemName=SavenkovIgor.QmlSandboxExtension)
+
+#### Contacts
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SavenkovIgor-555555?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/savenkovigor-dev/)

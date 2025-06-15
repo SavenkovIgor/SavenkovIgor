@@ -20,7 +20,8 @@ I'm a senior C++ software developer
 [![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
 
 
-### Projects
+### Featured personal projects
 
-I'm developing [QmlSandbox extension](https://marketplace.visualstudio.com/items?itemName=SavenkovIgor.QmlSandboxExtension) for Visual Studio Code
+- [TermGraph](https://termgraph.app) - knowledge mapping and graphs
+- [QmlSandbox](https://marketplace.visualstudio.com/items?itemName=SavenkovIgor.QmlSandboxExtension) live QML viewer extension for Visual Studio Code
 [![Installs](https://vsmarketplacebadges.dev/installs/SavenkovIgor.QmlSandboxExtension.svg)](https://marketplace.visualstudio.com/items?itemName=SavenkovIgor.QmlSandboxExtension)

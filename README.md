@@ -22,5 +22,5 @@ I'm a senior C++ software developer
 
 ### Projects
 
-I'm developing QmlSandbox extension for Visual Studio Code
+I'm developing [QmlSandbox extension](https://marketplace.visualstudio.com/items?itemName=SavenkovIgor.QmlSandboxExtension) for Visual Studio Code
 [![Installs](https://vsmarketplacebadges.dev/installs/SavenkovIgor.QmlSandboxExtension.svg)](https://marketplace.visualstudio.com/items?itemName=SavenkovIgor.QmlSandboxExtension)

@@ -1,6 +1,4 @@
-## Hi there 👋
-
-I'm a senior C++ software developer
+## Senior C++ engineer. Hi there [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=18&duration=3000&pause=800&vCenter=true&random=true&width=120&height=24&lines=%F0%9F%98%8A;%F0%9F%98%87;%F0%9F%A7%90;%F0%9F%A4%A9;%F0%9F%A5%B3;%F0%9F%98%B1%F0%9F%98%B1%F0%9F%98%B1;%F0%9F%AB%A0;%F0%9F%A4%96;%F0%9F%8E%83%F0%9F%8E%83%F0%9F%8E%83;%F0%9F%A4%8C;%F0%9F%91%8C;%F0%9F%A6%90%F0%9F%A6%90%F0%9F%A6%90;%F0%9F%90%8D;%F0%9F%A6%86;%E2%9A%A1%EF%B8%8F%E2%9A%A1%EF%B8%8F%E2%9A%A1%EF%B8%8F;%F0%9F%8C%9A;%F0%9F%94%AD;%E2%9A%92%EF%B8%8F;%E2%9A%97%EF%B8%8F;%F0%9F%A7%AA;%E2%9A%99%EF%B8%8F;%F0%9F%92%BB;%F0%9F%93%8C)](https://git.io/typing-svg)
 
 ### Core skills
 

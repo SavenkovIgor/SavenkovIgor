@@ -21,7 +21,7 @@
 ### Featured personal projects
 
 - [TermGraph](https://termgraph.app) - knowledge mapping and graphs
-- [QmlSandbox](https://marketplace.visualstudio.com/items?itemName=SavenkovIgor.QmlSandboxExtension) live QML viewer extension for Visual Studio Code
+- [QmlSandbox](https://marketplace.visualstudio.com/items?itemName=SavenkovIgor.QmlSandboxExtension) - live QML viewer for VS Code
 [![Installs](https://vsmarketplacebadges.dev/installs/SavenkovIgor.QmlSandboxExtension.svg)](https://marketplace.visualstudio.com/items?itemName=SavenkovIgor.QmlSandboxExtension)
 
 #### Contacts

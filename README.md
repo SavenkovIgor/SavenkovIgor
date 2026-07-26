@@ -27,3 +27,4 @@
 #### Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SavenkovIgor-555555?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/savenkovigor-dev/)
+[![Blog](https://img.shields.io/badge/AI_Tooling_Blog-555555?style=flat-square&logo=claudecode&logoColor=white&labelColor=D97757)](https://savenkovigor.github.io/AiCompatibility/)
